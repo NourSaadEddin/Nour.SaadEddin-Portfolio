@@ -21,7 +21,7 @@ hamburger.addEventListener('click', () => {
 });
 
 //hero// typing
-const dynamicText = document.querySelector("h1 span");
+const dynamicText = document.querySelector("h2 span");
 const words = [ "Programer" , "Developer","UI UX designer"];
 let wordIndex = 0;
 let charIndex = 0;
