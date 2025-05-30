@@ -898,6 +898,9 @@ footer .container {
      .h2P {
           margin-top: 400px;
     }
+    .portfolio {
+   margin-top: 150px;
+}
     .gallery ul {
          /* margin-top: 200px; */
         flex-wrap: wrap;
