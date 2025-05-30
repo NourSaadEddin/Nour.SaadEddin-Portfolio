@@ -838,8 +838,12 @@ footer .container {
         width: 100%;
         max-width: 300px;
     }
-     .portfolio {
-   margin-top: 100px;
+   .portfolio h2 {
+     margin-top: 100px;
+}
+
+.portfolio h2::after {
+     margin-top: 100px;
 }
     .gallery ul li {
        
@@ -900,11 +904,17 @@ footer .container {
      .h2P {
           margin-top: 400px;
     }
-    .portfolio {
-   margin-top: 100px;
+     .portfolio h2 {
+     margin-top: 100px;
 }
+
+.portfolio h2::after {
+     margin-top: 100px;
+}
+
     .gallery ul {
          /* margin-top: 200px; */
+  margin-top: 40px;
         flex-wrap: wrap;
         gap: 10px;
     }
@@ -940,7 +950,7 @@ footer .container {
     .card {
         width: 280px;
     }
-
+    
     .gallery ul li {
        
     margin-top: 40px;
