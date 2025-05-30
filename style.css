@@ -839,11 +839,11 @@ footer .container {
         max-width: 300px;
     }
    .portfolio h2 {
-     margin-top: 100px;
+     margin-top: 150px;
 }
 
 .portfolio h2::after {
-     margin-top: 100px;
+     margin-top: 150px;
 }
     .gallery ul li {
        
@@ -905,11 +905,11 @@ footer .container {
           margin-top: 400px;
     }
      .portfolio h2 {
-     margin-top: 100px;
+     margin-top: 150px;
 }
 
 .portfolio h2::after {
-     margin-top: 100px;
+     margin-top: 150px;
 }
 
     .gallery ul {
