@@ -838,7 +838,9 @@ footer .container {
         width: 100%;
         max-width: 300px;
     }
-
+     .portfolio {
+   margin-top: 100px;
+}
     .gallery ul li {
        
     margin-top: 40px;
@@ -899,7 +901,7 @@ footer .container {
           margin-top: 400px;
     }
     .portfolio {
-   margin-top: 150px;
+   margin-top: 100px;
 }
     .gallery ul {
          /* margin-top: 200px; */
